@@ -1,0 +1,72 @@
+pumpkin {
+}
+
+#emoji {
+    position: absolute;
+    top: 10px;
+    left: 20%;
+    opacity: 0;
+    z-index: 2;
+    width: 800px;
+}
+
+#spooky {
+    position: relative;
+    z-index: 1;
+    font-size: 300px;
+    margin-top: 10%;
+    font-family: 'Rock Salt', cursive;
+}
+
+#happy {
+    bottom: 10%;
+    right: 50%;
+    position: absolute;
+    font-family: 'Over the Rainbow', cursive;
+    z-index: 1;
+    font-size: 80px;
+}
+
+#pumpkin1 {
+    position: absolute;
+    top: 40%;
+    left: 20%;
+}
+
+#pumpkin2 {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+}
+
+#pumpkin3 {
+    position: absolute;
+    top: 60%;
+    left: 80%;
+}
+
+#ghost1 {
+    position: absolute;
+    top: 0%;
+    left: 20%;
+}
+
+#ghost2 {
+    position: absolute;
+    top: 10%;
+    left: 70%;
+}
+
+#ghost3 {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+}
+
+body {
+    background-image:url(images/Snow1.gif);
+   background-repeat:no-repeat;
+   background-size:cover;
+   overflow-x: hidden;
+   overflow-y: hidden;
+}
